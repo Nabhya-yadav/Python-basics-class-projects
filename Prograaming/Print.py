@@ -1,0 +1,5 @@
+print("hello world")
+print(10)
+print("this is a statement \n")
+print("the number is" ,10)
+print("string",end=".")
